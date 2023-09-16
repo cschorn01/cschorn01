@@ -1,8 +1,10 @@
 <h1 align="center" dir="auto"> Hi there, I'm Chris 👋 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats" align="center" dir="auto">
+<div align="center" dir="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats" align="center" dir="auto" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
+</div>
 
 <!--
 **cschorn01/cschorn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
