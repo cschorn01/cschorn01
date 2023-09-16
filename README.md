@@ -1,6 +1,6 @@
 <h1 align="center" dir="auto"> Hi there, I'm Chris 👋 </h1>
 
-<p align="center" dir="auto">![Repository Stats](https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true) </p>
+<img align="center" dir="auto" alt="Repository Stats" src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true">
 
 <img align="center" dir="auto" alt="Your Repository's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" p>
 
