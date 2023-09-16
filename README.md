@@ -1,8 +1,13 @@
 <h1 align="center" dir="auto"> Hi there, I'm Chris 👋 </h1>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true)
-
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&layout=compact&theme=dark)](https://github.com/cschorn01)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=cschorn01)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=cschorn01)
 
 <!--
 **cschorn01/cschorn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
