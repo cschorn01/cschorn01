@@ -6,6 +6,7 @@
 
 <div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
+  <h2>Platforms</h2>
 </div>
 
 <!--
