@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<h1 align="center" dir="auto">
 
 ### Hi there 👋
 
-</div>
+</h1>
 
 
 <!--
