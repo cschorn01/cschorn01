@@ -1,5 +1,7 @@
 <h1 align="center" dir="auto"> Hi there, I'm Chris 👋 </h1>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&layout=compact&theme=dark)](https://github.com/cschorn01)
 
 <!--
