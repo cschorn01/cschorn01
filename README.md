@@ -2,7 +2,9 @@
 
 <div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats">
+</div>
 
+<div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
 </div>
 
