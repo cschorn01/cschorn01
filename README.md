@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats">
 </div>
 
-<div align="center" dir="auto">
+<div align="center" dir="auto"> <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cschorn01&theme=dark">
   </a>
