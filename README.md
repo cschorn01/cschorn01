@@ -5,6 +5,12 @@
 </div>
 
 <div align="center" dir="auto">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cschorn01&theme=dark">
+  </a>
+</div>
+
+<div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
 </div>
 
