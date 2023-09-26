@@ -10,9 +10,9 @@
   </a>
 </div>
 
-<div align="center" dir="auto">
+<!-- div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
-</div>
+</div -->
 
 <!--
 **cschorn01/cschorn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
