@@ -36,10 +36,10 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 -->
 
-<div align="center" dir="auto"> <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- div align="center" dir="auto"> <https://github.com/DenverCoder1/github-readme-streak-stats>
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cschorn01&theme=dark">
-</div>
+</div -->
 
 <!-- div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&theme=blue-green" alt="Your Repository's Stats">
