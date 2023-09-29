@@ -20,7 +20,7 @@
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge)](https://www.freertos.org/">
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge">
 </div>
 
 <div align="center" dir="auto">
