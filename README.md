@@ -32,9 +32,12 @@
   <img alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
-<!--
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
--->
+
+<div align="center" dir="auto">
+  <a href="https://www.instagram.com/chris_schorn/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+</div>
 
 <!-- div align="center" dir="auto"> <https://github.com/DenverCoder1/github-readme-streak-stats>
   <a href="https://git.io/streak-stats">
