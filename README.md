@@ -7,9 +7,9 @@
 <div align="center" dir="auto">
   <table>
     <tr>
-      <th><img alt="Languages" src="https://img.shields.io/badge/Languages%23ffffff.svg?style=for-the-badge&logo=Languages&logoColor=black"></th>
-      <th><img alt="Libraries" src="https://img.shields.io/badge/Libraries%23ffffff.svg?style=for-the-badge&logo=Libraries&logoColor=black"></th>
-      <th><img alt="Platforms" src="https://img.shields.io/badge/Platforms%23ffffff.svg?style=for-the-badge&logo=Platforms&logoColor=black"></th>
+      <th><img alt="Languages" src="https://img.shields.io/badge/CLanguages-FFFFFF?style=for-the-badge"></th>
+      <th><img alt="Libraries" src="https://img.shields.io/badge/Libraries-FFFFFF?style=for-the-badge"></th>
+      <th><img alt="Platforms" src="https://img.shields.io/badge/Platforms-FFFFFF?style=for-the-badge"></th>
     </tr>
     <tr>
       <td><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></td>
