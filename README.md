@@ -43,8 +43,8 @@
 </td>
     </tr>
       <td></td>
-      <td><img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge"></td>
       <td></td>
+      <td><img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge"></td>
     </tr>
   </table>
 <div>
