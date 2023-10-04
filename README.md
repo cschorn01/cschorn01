@@ -32,16 +32,16 @@
       <td><img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></td>
     </tr>
     <tr>
-      <td><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
+      <td><img alt="Salesforce Apex" src="https://img.shields.io/badge/Salesforce_Apex-1AA3DD?style=for-the-badge"></td>
       <td><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></td>
       <td><img alt="Semtech LoRa" src="https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge"></td>
     </tr>
     <tr>
-      <td><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
+      <td><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
       <td><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
       <td><img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge"></td>
     </tr>
-      <td></td>
+      <td><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
       <td></td>
       <td><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></td>
     </tr>
