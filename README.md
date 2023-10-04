@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td> <a href="https://www.salesforce.com/trailblazer/cschorn"> <img alt="Salesforce Apex" src="https://img.shields.io/badge/Salesforce_Apex-1AA3DD?style=for-the-badge"> </a> </td>
-      <td><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></td>
+      <td> <a href="https://www.selenium.dev/"> <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"> </a> </td>
       <td> <a href="https://www.semtech.com/products/wireless-rf/lora-connect/sx1280"> <img alt="Semtech LoRa" src="https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge"> </a> </td>
     </tr>
     <tr>
