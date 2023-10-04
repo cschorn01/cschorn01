@@ -12,34 +12,34 @@
       <th><img alt="Platforms" src="https://img.shields.io/badge/Platforms-FFFFFF?style=for-the-badge"></th>
     </tr>
     <tr>
-      <td><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></td>
-      <td><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></td>
-      <td><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></td>
+      <td> <a href="https://ptgmedia.pearsoncmg.com/images/9780321776419/samplepages/9780321776419.pdf"> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> </a> </td>
+      <td> <a href="https://matplotlib.org/"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> </a> </td>
+      <td> <a href="https://www.vim.org/"> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"> </a> </td>
     </tr>
     <tr>
-      <td><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
-      <td><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></td>
-      <td><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></td>
+      <td><a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </a> </td>
+      <td> <a href="https://numpy.org/"> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> </a> </td>
+      <td> <a href="https://jupyter.org/"> <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> </a> </td>
     </tr>
     <tr>
-      <td><img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></td>
-      <td><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></td>
-      <td><img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></td>
+      <td> <a href="https://cmake.org/"> <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"> </a> </td>
+      <td> <a href="https://pandas.pydata.org/"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> </a> </td>
+      <td> <a href="https://www.latex-project.org/"> <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> </a> </td>
     </tr>
     <tr>
-      <td><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
-      <td><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></td>
-      <td><img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></td>
+      <td> <a href="https://www.gnu.org/software/bash/manual/bash.html"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a> </td> <!-- WRITE ARTICLE ABOUT SHELL SCRIPTING -->
+      <td> <a href="https://scipy.org/"> <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> </a> </td>
+      <td> <a href="https://www.raspberrypi.com/"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"> </a> </td>
     </tr>
     <tr>
-      <td><img alt="Salesforce Apex" src="https://img.shields.io/badge/Salesforce_Apex-1AA3DD?style=for-the-badge"></td>
+      <td> <a href="https://www.salesforce.com/trailblazer/cschorn"> <img alt="Salesforce Apex" src="https://img.shields.io/badge/Salesforce_Apex-1AA3DD?style=for-the-badge"> </a> </td>
       <td><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></td>
-      <td><img alt="Semtech LoRa" src="https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge"></td>
+      <td> <a href="https://www.semtech.com/products/wireless-rf/lora-connect/sx1280"> <img alt="Semtech LoRa" src="https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge"> </a> </td>
     </tr>
     <tr>
       <td><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-      <td><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
-      <td><img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge"></td>
+      <td> <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> </a> </td>
+      <td> <a href="https://www.freertos.org/"> <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge"> </a> </td>
     </tr>
       <td><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
       <td></td>
