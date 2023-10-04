@@ -53,6 +53,9 @@
   <a href="https://www.instagram.com/chris_schorn/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+  <a href="https://www.salesforce.com/trailblazer/cschorn"> 
+    <img alt="Salesforce Trailblazer Account" src="https://img.shields.io/badge/Salesforce_Trailblazer-1AA3DD?style=for-the-badge">
+  </a>
 </div>
 
 <!-- div align="center" dir="auto"> <https://github.com/DenverCoder1/github-readme-streak-stats>
