@@ -45,6 +45,16 @@
       <td></td>
       <td><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></td>
     </tr>
+    </tr>
+      <td></td>
+      <td></td>
+      <td><img alt="FreeCAD" src="https://img.shields.io/badge/FreeCAD-FFFFFF?style=for-the-badge"></td>
+    </tr>
+    </tr>
+      <td></td>
+      <td></td>
+      <td><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-FFFFFF?style=for-the-badge"></td>
+    </tr>
   </table>
 <div>
 
