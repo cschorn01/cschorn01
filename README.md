@@ -55,6 +55,11 @@
       <td></td>
       <td><img alt="KiCAD" src="https://img.shields.io/badge/KiCAD-FFFFFF?style=for-the-badge"></td>
     </tr>
+    </tr>
+      <td></td>
+      <td></td>
+      <td><img alt="GDB" src="https://img.shields.io/badge/GDB-FFFFFF?style=for-the-badge"></td>
+    </tr>
   </table>
 <div>
 
