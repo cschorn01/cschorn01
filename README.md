@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats">
 </div -->
 
-<div align="center" dir="auto">
+<!--div align="center" dir="auto">
   <table>
     <tr>
       <th><img alt="Languages" src="https://img.shields.io/badge/Languages-FFFFFF?style=for-the-badge"></th>
@@ -59,8 +59,8 @@
       <td></td>
       <td></td>
       <td><img alt="GDB" src="https://img.shields.io/badge/GDB-FFFFFF?style=for-the-badge"></td>
-    </tr>
-  </table>
+    </tr -->
+  <!-- /table>
 <div>
 
 
@@ -71,7 +71,7 @@
   <a href="https://www.salesforce.com/trailblazer/cschorn"> 
     <img alt="Salesforce Trailblazer Account" src="https://img.shields.io/badge/Salesforce_Trailblazer-1AA3DD?style=for-the-badge">
   </a>
-</div>
+</div -->
 
 <!-- div align="center" dir="auto"> <https://github.com/DenverCoder1/github-readme-streak-stats>
   <a href="https://git.io/streak-stats">
