@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cschorn01&show_icons=true" alt="Repository Stats">
 </div -->
 
-<!--div align="center" dir="auto">
+<!-- div align="center" dir="auto">
   <table>
     <tr>
       <th><img alt="Languages" src="https://img.shields.io/badge/Languages-FFFFFF?style=for-the-badge"></th>
